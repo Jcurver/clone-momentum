@@ -1,0 +1,19 @@
+#clock{
+    display: flex;
+    font-size: 150px;
+    text-shadow: 2px 0 black;
+    color: aliceblue;
+    align-items: center;
+
+    justify-content: center;
+    z-index: 2;
+    padding: 0;
+   
+ 
+
+}
+#clockbox{
+    margin-top: 25%;
+    height: 400px;
+    width: 300px;
+}
